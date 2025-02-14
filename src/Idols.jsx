@@ -4,6 +4,7 @@ import SiIdol from "./SiIdol";
 
 
 // Locale 세팅   이전과 바뀜, 한글 쓰기 위함
+// git 편집 테스트
 const fakerKO = new Faker({
     locale: [ko,en],
 });
